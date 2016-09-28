@@ -48,13 +48,6 @@ public class MonProg {
 			// TODO Auto-generated catch block
 			System.out.println("Produit ou Fournisseur pas trouvé dans la BDD " + e);
 			//e.printStackTrace();
-		}//rajouter  l'élément
-		try {
-			venteDao.Create(vente1);
-		} catch (ElementPasTrouveException e) {
-			// TODO Auto-generated catch block
-			System.out.println("Produit ou Fournisseur pas trouvé dans la BDD " + e);
-			//e.printStackTrace();
 		}
 		
 		System.out.println(vente1.toString());
