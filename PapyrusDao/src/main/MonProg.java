@@ -24,7 +24,7 @@ import model.Vente;
 public class MonProg {
 
 	/**
-	 * @param args
+	 * @param argsss
 	 */
 	public static void main(String[] args) {
 		
