@@ -32,6 +32,7 @@ public class Main {
 		student2.setName("lucia");
 		student3.setName("manu");
 		//student.setRollNo(4);
+		//student.setRollNo(4);
 		
 		try {
 			sessionFactory = new Configuration().configure().buildSessionFactory();
