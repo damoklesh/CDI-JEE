@@ -1,0 +1,11 @@
+PLANIFICATION PAPYRUS
+
+Créer un program qui soit capable d'accèder aux donnés dans la base de données papyrus à travers d'un DAO. 
+
+ 1) Crèer Interface DAO et singleton de connexion - 10
+ 2) Crèer implementation DAO - 10-11h
+ 3) opt: crèer factory - 45min 
+ 4) Crèer program main - 30 h  
+
+
+Fin prèvu: 12:30
